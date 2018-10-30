@@ -1,0 +1,9 @@
+name: OriVanishPlugin
+author: ori shamir
+version: 3.2
+main: MainPack.main
+commands:
+    vanish:
+      description: vanish
+      usage: /<command>
+      aliases: [v, vanishme]
